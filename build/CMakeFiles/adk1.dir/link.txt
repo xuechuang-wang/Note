@@ -1,0 +1,2 @@
+/bin/ar qc libadk1.a CMakeFiles/adk1.dir/adk.cpp.o
+/bin/ranlib libadk1.a

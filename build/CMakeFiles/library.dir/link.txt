@@ -1,0 +1,2 @@
+/bin/ar qc liblibrary.a CMakeFiles/library.dir/adk.cpp.o
+/bin/ranlib liblibrary.a

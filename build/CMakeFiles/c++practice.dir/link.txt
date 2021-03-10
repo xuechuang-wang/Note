@@ -1,0 +1,1 @@
+/bin/g++-9 -g -rdynamic CMakeFiles/c++practice.dir/practice1.cpp.o -o c++practice  liblibrary.a 

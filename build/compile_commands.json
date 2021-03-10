@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wxc/Documents/study-myself/MyArticles/build",
+  "command": "/bin/g++-9   -g -o CMakeFiles/library.dir/adk.cpp.o -c /home/wxc/Documents/study-myself/MyArticles/adk.cpp",
+  "file": "/home/wxc/Documents/study-myself/MyArticles/adk.cpp"
+},
+{
+  "directory": "/home/wxc/Documents/study-myself/MyArticles/build",
+  "command": "/bin/g++-9   -g -o CMakeFiles/c++practice.dir/practice1.cpp.o -c /home/wxc/Documents/study-myself/MyArticles/practice1.cpp",
+  "file": "/home/wxc/Documents/study-myself/MyArticles/practice1.cpp"
+}
+]
