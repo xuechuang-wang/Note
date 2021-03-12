@@ -93,4 +93,13 @@ plt.show()
 
 图片显示结果如下
 
-![avatar](/代码笔记/picture/中文显示.png)
+`
+第一种显示方式，markdown可以显示，但是同步到github上显示不了
+~~![avatar](/代码笔记/picture/中文显示.png)~~
+`
+
+第二种显示方式
+
+**采用HTML的图片引入**
+
+<img src="./picture/中文显示.png"/>
