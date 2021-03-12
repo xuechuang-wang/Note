@@ -97,7 +97,7 @@ plt.title("10点到12点每分钟的气温变化情况",fontproperties=my_font)
 
 
 # 保存图片
-#plt.savefig("./代码笔记/picture/中文显示.png")  
+plt.savefig("./代码笔记/picture/中文显示.png")  
 
 # 展示
 plt.show()
